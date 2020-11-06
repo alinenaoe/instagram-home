@@ -67,26 +67,31 @@ body {
 .profile-picture img {
     border-radius: 50%;
     height: 6rem;
+    margin: 2rem 0;
 }
 
 .login {
     background-color: #0095f6;
     color: #fff;
+    font-weight: 600;
     padding: 8px;
     border-radius: 4px;
 }
 
 .logout {
     color: #0095f6;
+    font-weight: 600;
     margin-top: 1rem;
 }
 
 .box-group:nth-child(2) p {
     color: rgb(160, 160, 160);
+    line-height: 2rem;
 }
 
 .link-blue {
     color: #0095f6;
+    font-weight: 600;
 }
 
 .get-app {
